@@ -91,4 +91,6 @@ Execute the program
 </html>
 ```
 # OUPUT
-![OUTPUT](Screenshot%20(21).png)
+![Screenshot (21)](https://user-images.githubusercontent.com/118707347/213959933-40b34d88-6038-4162-b9af-a5ccaa63cc97.png)
+
+
